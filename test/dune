@@ -1,0 +1,4 @@
+(test
+  (name test)
+  (libraries prbnmcn-ucb1 alcotest)
+)
